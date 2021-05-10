@@ -1,0 +1,4 @@
+Nombre,Apellido,Color
+Peru,Ortiz,blanco
+Pablo,Monges,azul
+Adrian,Rivera,merron
