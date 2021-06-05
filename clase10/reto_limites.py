@@ -1,4 +1,3 @@
-import sympy as sp
 from sympy import Symbol, diff, limit, oo
 
 #1
